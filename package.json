@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "json-server": "^0.17.0",
+    "nouislider": "^15.6.0"
+  },
+  "scripts": {
+    "stubapi": "json-server data/data-db.json"
+  }
+}

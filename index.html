@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.6.0/nouislider.css" integrity="sha512-MKxcSu/LDtbIYHBNAWUQwfB3iVoG9xeMCm32QV5hZ/9lFaQZJVaXfz9aFa0IZExWzCpm7OWvp9zq9gVip/nLMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="css/style.css">
+  <title>Parametric</title>
+</head>
+<body>
+  <div class="wrapper">
+
+    <header class="header"></header>
+    <main class="main">
+      <div class="container">
+        <section class="apartments">
+    
+          <div class="apartments__list">
+            <h1 class="apartments__title">Квартиры</h1>
+            <table class="apartments__table">
+              <tr class="header__name">
+                <th class="name__layout">Планировка</th>
+                <th class="name__flat">Квартира</th>
+                <th class="name__square">S, м²</th>
+                <th class="name__floor">Этаж</th>
+                <th class="name__price">Цена, ₽</th>
+              </tr>
+              <tr class="header__name-mb">
+                <th colspan="3" class="header__row">
+                  <div class="name__square">S, м²</div>
+                  <div class="name__floor">Этаж</div>
+                  <div class="name__price">Цена, ₽</div>
+                </th>
+              </tr>
+            </table>
+          </div>
+    
+          <div class="apartment__filters">
+            <button class="btn__room" id="1">1k</button>
+            <button class="btn__room" id="2">2k</button>
+            <button class="btn__room" id="3">3k</button>
+            <button class="btn__room four" id="4">4k</button>
+
+            <p>Стомость квартиры, ₽</p>
+
+            <div class="range__price">
+              <div class="price__block">
+                <div class="block__one">
+                  <span>от</span>
+                  <div class="from"></div> 
+                </div>
+                <div class="block__two">
+                  <span>до</span>
+                  <div class="to"></div>
+                </div>
+              </div>
+              <div id="price__slider"></div>
+            </div>
+
+            <div class="square__price">
+              <div class="square__block">
+                <div class="block__one">
+                  <span>от</span>
+                  <div class="from"></div> 
+                </div>
+                <div class="block__two">
+                  <span>до</span>
+                  <div class="to"></div>
+                </div>  
+              </div>
+              <div id="square__slider"></div>
+            </div>
+            <button class="reset">Сбросить <img src="img/close.svg" alt="close"></button>
+          </div>
+
+        </section>
+        <button class="show__more">Загрузить еще</button>
+        <a href="#" id="toTop">
+          <img src="img/arrow.svg" alt="arrow">
+      </a>
+      </div>
+    </main>
+    <footer class="footer"></footer>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/15.6.0/nouislider.min.js" integrity="sha512-1mDhG//LAjM3pLXCJyaA+4c+h5qmMoTc7IuJyuNNPaakrWT9rVTxICK4tIizf7YwJsXgDC2JP74PGCc7qxLAHw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script  src="js/script.js"></script>
+</body>
+</html>

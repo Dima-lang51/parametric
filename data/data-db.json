@@ -1,0 +1,563 @@
+{ "apartments":[
+  {
+    "img": "./img/flat.png",
+    "apartment": "104",
+    "rooms": 3,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "105",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "106",
+    "rooms": 3,
+    "square": 63.3,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "107",
+    "rooms": 2,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "108",
+    "rooms": 4,
+    "square": 163.4,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 16637500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "109",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 5633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "110",
+    "rooms": 2,
+    "square": 65.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 7633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "104",
+    "rooms": 3,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "105",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "106",
+    "rooms": 3,
+    "square": 63.3,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "107",
+    "rooms": 2,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "108",
+    "rooms": 4,
+    "square": 163.4,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 16637500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "109",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 5633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "110",
+    "rooms": 2,
+    "square": 65.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 7633500
+  },  {
+    "img": "./img/flat.png",
+    "apartment": "104",
+    "rooms": 3,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "105",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "106",
+    "rooms": 3,
+    "square": 63.3,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "107",
+    "rooms": 2,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "108",
+    "rooms": 4,
+    "square": 163.4,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 16637500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "109",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 5633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "110",
+    "rooms": 2,
+    "square": 65.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 7633500
+  },  {
+    "img": "./img/flat.png",
+    "apartment": "104",
+    "rooms": 3,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "105",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "106",
+    "rooms": 3,
+    "square": 63.3,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "107",
+    "rooms": 2,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "108",
+    "rooms": 4,
+    "square": 163.4,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 16637500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "109",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 5633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "110",
+    "rooms": 2,
+    "square": 65.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 7633500
+  },  {
+    "img": "./img/flat.png",
+    "apartment": "104",
+    "rooms": 3,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "105",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "106",
+    "rooms": 3,
+    "square": 63.3,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "107",
+    "rooms": 2,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "108",
+    "rooms": 4,
+    "square": 163.4,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 16637500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "109",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 5633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "110",
+    "rooms": 2,
+    "square": 65.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 7633500
+  },  {
+    "img": "./img/flat.png",
+    "apartment": "104",
+    "rooms": 3,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "105",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "106",
+    "rooms": 3,
+    "square": 63.3,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "107",
+    "rooms": 2,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "108",
+    "rooms": 4,
+    "square": 163.4,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 16637500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "109",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 5633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "110",
+    "rooms": 2,
+    "square": 65.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 7633500
+  },  {
+    "img": "./img/flat.png",
+    "apartment": "104",
+    "rooms": 3,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "105",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "106",
+    "rooms": 3,
+    "square": 63.3,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "107",
+    "rooms": 2,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "108",
+    "rooms": 4,
+    "square": 163.4,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 16637500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "109",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 5633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "110",
+    "rooms": 2,
+    "square": 65.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 7633500
+  },  {
+    "img": "./img/flat.png",
+    "apartment": "104",
+    "rooms": 3,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "105",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "106",
+    "rooms": 3,
+    "square": 63.3,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "107",
+    "rooms": 2,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "108",
+    "rooms": 4,
+    "square": 163.4,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 16637500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "109",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 5633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "110",
+    "rooms": 2,
+    "square": 65.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 7633500
+  },  {
+    "img": "./img/flat.png",
+    "apartment": "104",
+    "rooms": 3,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "105",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "106",
+    "rooms": 3,
+    "square": 63.3,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "107",
+    "rooms": 2,
+    "square": 63.1,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 6630500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "108",
+    "rooms": 4,
+    "square": 163.4,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 16637500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "109",
+    "rooms": 1,
+    "square": 63.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 5633500
+  },
+  {
+    "img": "./img/flat.png",
+    "apartment": "110",
+    "rooms": 2,
+    "square": 65.2,
+    "floor": 1,
+    "total_floors": 17,
+    "price": 7633500
+  }
+]
+}
